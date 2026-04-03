@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - develop
+      - laravel-13-compatibility
   pull_request:
     branches:
       - main
